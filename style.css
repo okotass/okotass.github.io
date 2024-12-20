@@ -53,6 +53,7 @@ body {
   padding-top: var(--spacing-200);
   padding-right: var(--spacing-200);
   padding-left: var(--spacing-200);
+  filter: drop-shadow(0 25px 25px rgba(0, 0, 0, 0.0477));
 }
 
 .qr-code-image {
