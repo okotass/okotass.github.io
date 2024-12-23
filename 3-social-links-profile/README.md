@@ -34,13 +34,13 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![desktop](/screenshot-desktop.png)
-![tablet](/screenshot-tablet.png)
-![mobile](/screenshot-mobile.png)
+![desktop](screenshot-desktop.png)
+![tablet](screenshot-tablet.png)
+![mobile](screenshot-mobile.png)
 
 ### Links
 
-- Solution URL: [https://github.com/okotass/okotass.github.io/tree/main/3-social-links-profile](https://github.com/okotass/okotass.github.io/tree/main/3-social-links-profile)](https://github.com/okotass/okotass.github.io/tree/main/3-social-links-profile)
+- Solution URL: [https://github.com/okotass/okotass.github.io/tree/main/3-social-links-profile](https://github.com/okotass/okotass.github.io/tree/main/3-social-links-profile)
 - Live Site URL: [https://okotass.github.io/3-social-links-profile](https://okotass.github.io/3-social-links-profile)
 
 ## My process
