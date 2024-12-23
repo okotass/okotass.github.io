@@ -1,25 +1,29 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 ## Overview
-Built my first challenge 'QR code component'.
+
+Built my solution 'Blog preview card'.
 
 ### Screenshot
 
-![](./screenshot.png)
+![screenshot-desktop](/screenshot-desktop.png)
+![screenshot-mobile](/screenshot-mobile.png)
 
 ### Links
 
@@ -30,27 +34,25 @@ Built my first challenge 'QR code component'.
 
 ### Built with
 
-- HTML markup
+- Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
 ### What I learned
 
-- CSS custom properties
-- Flexbox
-
+- responsive layout
 
 ### Continued development
 
 - Semantic HTML5 markup
+- Mobile first
 
 ### Useful resources
 
-- [mdn_CSS_box-sizing](https://developer.mozilla.org/ja/docs/Web/CSS/box-sizing) - I arrived at this by researching how to include padding in the width of a div.
+- [mdn_Mobile first](https://developer.mozilla.org/ja/docs/Glossary/Mobile_First)
 
 ## Author
 
 - Frontend Mentor - [@okotass](https://www.frontendmentor.io/profile/okotass)
-
 
 Thanks for looking at my solution🤝

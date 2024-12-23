@@ -1,0 +1,150 @@
+:root {
+  /* style guide */
+  --colors-yellow: #f4d04e;
+  --colors-gray-950: #111111;
+  --colors-gray-500: #6b6b6b;
+  --colors-white: #ffffff;
+  --spacing-300: 24px;
+  --spacing-150: 12px;
+  --spacing-100: 8px;
+  --spacing-50: 4px;
+}
+
+.text-preset-base {
+  font-family: "Figtree", serif;
+  line-height: 150%;
+  letter-spacing: 0;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: var(--colors-gray-950);
+}
+.text-preset-1 {
+  font-weight: 800;
+  font-size: 24px;
+}
+.text-preset-2 {
+  font-weight: 500;
+  font-size: 16px;
+}
+.text-preset-3 {
+  font-weight: 500;
+  font-size: 14px;
+}
+.text-preset-3-bold {
+  font-weight: 800;
+  font-size: 14px;
+}
+
+body {
+  background-color: var(--colors-yellow);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.card-wrapper {
+  box-sizing: border-box;
+  width: 327px;
+  height: 501px;
+  padding: var(--spacing-300);
+  border: 1px solid var(--colors-gray-950);
+  border-radius: 20px;
+  background-color: var(--colors-white);
+  filter: drop-shadow(8px 8px rgba(0, 0, 0, 100%));
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.blog-img {
+  width: 279px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blog-img img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.blog-contents {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+}
+.article-tags {
+  display: flex;
+  gap: 8px;
+}
+.tag {
+  background-color: var(--colors-yellow);
+  box-sizing: border-box;
+  width: 73px;
+  height: 26px;
+  border-radius: 4px;
+  padding: 4px 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p.tag-text {
+  width: 100%;
+  font-size: 0.75rem;
+  text-align: center;
+}
+p.article-publish-date,
+h1.article-title,
+p.summary {
+  margin: 0;
+}
+p.article-publish-date {
+  font-size: 12px;
+}
+h1.article-title {
+  font-size: 20px;
+}
+p.summary {
+  color: var(--colors-gray-500);
+}
+.author {
+  width: fit-content;
+  height: 32px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+img.author-avator {
+  width: 32px;
+  height: 32px;
+}
+
+@media screen and (min-width: 451px) {
+  main.card-wrapper {
+    width: 384px;
+    height: 522px;
+  }
+  .blog-img {
+    width: 336px;
+  }
+  .tag {
+    width: 82px;
+    height: 29px;
+  }
+  p.tag-text {
+    font-size: 0.9rem;
+  }
+  p.article-publish-date {
+    font-size: 14px;
+  }
+  h1.article-title {
+    font-size: 24px;
+  }
+  p.summary {
+    font-size: 16px;
+  }
+}
