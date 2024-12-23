@@ -27,8 +27,8 @@ Built my solution 'Blog preview card'.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/okotass/okotass.github.io/tree/main/2-blog-preview-card](https://github.com/okotass/okotass.github.io/tree/main/2-blog-preview-card)
+- Live Site URL: [https://okotass.github.io/2-blog-preview-card/](https://okotass.github.io/2-blog-preview-card/)
 
 ## My process
 
