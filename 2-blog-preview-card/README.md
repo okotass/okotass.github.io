@@ -1,10 +1,10 @@
-# Frontend Mentor - QR code component solution
+# Frontend Mentor - Blog preview card solution
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-- [Frontend Mentor - QR code component solution](#frontend-mentor---qr-code-component-solution)
+- [Frontend Mentor - Blog preview card solution](#frontend-mentor---blog-preview-card-solution)
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
@@ -22,8 +22,8 @@ Built my solution 'Blog preview card'.
 
 ### Screenshot
 
-![screenshot-desktop](/screenshot-desktop.png)
-![screenshot-mobile](/screenshot-mobile.png)
+![screenshot-desktop](screenshot-desktop.png)
+![screenshot-mobile](screenshot-mobile.png)
 
 ### Links
 
